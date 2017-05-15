@@ -3,4 +3,4 @@ I'm working on a project from Codecademy called Suggestion Box. It is a project 
 
 This is also my first AngularJS project!
 
-[Live Demo](https://kishan10.github.io/frontend-sideproject-suggestionbox/)
+[Live Demo](https://kishan10.github.io/Angularproject-SuggestionBox-Codecademy/)
